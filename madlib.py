@@ -19,3 +19,4 @@ madlib = f"computer programming is so {adj}! it makes me so excited all the time
 i love to {verb} stay hydrated and {verb2} like you are {famusperson}"
 
 print(madlib)
+print(madlib)
